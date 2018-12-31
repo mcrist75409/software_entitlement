@@ -1,4 +1,4 @@
-feature_id,checkout_ts,user_id,host_id,handle,request_ts,checkin_ts,tokens,account_id,version_id,loadinfo_id,origin
+"feature_id","checkout_ts","user_id","host_id","handle","request_ts","checkin_ts","tokens","account_id","version_id","loadinfo_id","origin"
 18675,1531934049,55149,42312,4706,1531934049,1531934790,1,1,239,48790,1
 18707,1531934049,55149,42312,2406,1531934049,1531934790,1,1,239,48790,1
 218,1531934670,63012,54622,10305,1531934670,1531934790,1,1,35,48790,1
